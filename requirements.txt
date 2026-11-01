@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+sarvamai
+youtube-transcript-api
+sentence-transformers
+numpy
+python-dotenv
